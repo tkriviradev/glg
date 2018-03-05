@@ -14,9 +14,3 @@ and many more
 
 ###
 commit1
-
-####
-DEV
-####
-
-Dev branch
